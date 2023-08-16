@@ -5,8 +5,8 @@ Chat application build with the power of MERN Stack.
 ## Installation Guide
 
 ### Requirements
-- [Nodejs](https://nodejs.org/en/download)
-- [Mongodb](https://www.mongodb.com/docs/manual/administration/install-community/)
+- [Nodejs]
+- [Mongodb]
 
 Both should be installed and make sure mongodb is running.
 
@@ -19,14 +19,14 @@ Now install the dependencies
 cd server
 yarn
 cd ..
-cd public
+cd client
 yarn
 ```
 We are almost done, Now just start the development server.
 
 For Frontend.
 ```shell
-cd public
+cd client
 yarn start
 ```
 For Backend.
